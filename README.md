@@ -1,6 +1,8 @@
 ### Hi there 👋
 My name is Shannon Campbell and I am a Senior studying Computer Science at Rice University. I will also be in the Rice Master of Accounting class of 2023. 
 
+I am also a member of the Rice University Women's swim team.
+
 <!--
 **campbsha001/campbsha001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
